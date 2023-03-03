@@ -1,0 +1,16 @@
+@media (max-width: 768px) {
+	.layar-img{
+		margin: -170px 0px 0px -15px;
+	}
+}
+@media (max-width: 425px) {
+	.layar-img{
+		margin: -120px 0px 0px 0px;
+	}
+}
+@media (max-width: 425px) {
+	.layar-img{
+		display: none;
+	}
+}
+
